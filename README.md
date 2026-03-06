@@ -1,5 +1,12 @@
 # justrunmy.app
-## 首先下载本项目所有文件为.zip
+## 首先下载本项目所有文件为.zip,解压之后再选定所有文件（注意不是文件夹）重新压缩为.zip(此处可能比较玄学，总之确保文件是一级压缩，不要文件夹里放文件再压缩)
+<img width="280" height="93" alt="image" src="https://github.com/user-attachments/assets/4a5693b4-71e0-4f1e-9b91-460179671783" />
+
+## 只保留这个压缩后的文件，然后上传
+<img width="800" height="271" alt="image" src="https://github.com/user-attachments/assets/ba08c6a2-d984-4bc4-a896-bbc3e015237e" />
+
+
+
 ## 上传到justrunmy.app平台
 
 <img width="1896" height="765" alt="image" src="https://github.com/user-attachments/assets/f0a8e809-b0be-433a-89d6-e157692930fe" />
