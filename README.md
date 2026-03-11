@@ -19,8 +19,6 @@
 
 <img width="800" height="271" alt="image" src="https://github.com/user-attachments/assets/ba08c6a2-d984-4bc4-a896-bbc3e015237e" />
 
-<img width="1896" height="765" alt="image" src="https://github.com/user-attachments/assets/4a5693b4-71e0-4f1e-9b91-460179671783" />
-
 ### 3. 环境与版本设置
 * **Runtime Version**: 建议选择 **`22`** 以确保环境稳定性。
 * 等待进度条读取完成。
