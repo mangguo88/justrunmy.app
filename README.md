@@ -35,8 +35,12 @@
 * **参数配置**: 详细参数含义请参考上述项目的说明文档。
 
 <img width="923" height="416" alt="image" src="https://github.com/user-attachments/assets/9ce152a3-23c3-4ef7-986d-14d8b77f9758" />
+> [!IMPORTANT]
+> 注意**Settings**里的端口是内部端口
+> <img width="1542" height="479" alt="image" src="https://github.com/user-attachments/assets/3ae74e2e-451b-4551-822b-54612b6c5758" />
+> 生成节点后要在代理app中替换为**General**的外部端口
+> <img width="1333" height="588" alt="image" src="https://github.com/user-attachments/assets/c19abda1-1216-4c33-92ce-ad8e5e50c813" />
 
-<img width="1554" height="894" alt="image" src="https://github.com/user-attachments/assets/b00dce16-ea8a-401b-9bcd-1897e66a7b00" />
 
 ### 5. 启动服务
 确认无误后点击 **Start**。部署成功后，你可以在 Shell 终端进行实时操作。此时欢迎点个 Star ⭐️ 支持一下
